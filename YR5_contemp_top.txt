@@ -1,0 +1,28 @@
+Topological defects in Liquid Crystals
+
+what are they:
+- points in ridge structure where it breaks down
+- place where continuous order breaks down
+e.g. point defects
+- cant remove under topological deformations
+- magnets and crystals can have these
+- but will focus on liquid crystals (LC)
+
+- LC - made of rod-like molecules
+- all align as this is energetically favoured
+- get large order structure "nematic order"
+
+why important:
+- they act like particles
+- as topologically protected they cant be removed
+(But why do the substrate only deform smoothly? Cant the rods flip randomly?)
+- they have 'charge': + attracts -, + repels +
+- they are big! - big atoms
+- Torons
+(can we describe all particles as point defects)
+- colloids plus defects
+    - making knots! Ravnik/Musevic Labs
+
+
+
+Topic choice 5 pm Thursday
